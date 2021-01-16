@@ -6,6 +6,11 @@ Official documentation source for the AWS Identity and Access Management (IAM) U
 
 This sample code is made available under a modified MIT license. See the LICENSE file.
 
+<<<<<<< HEAD
 ## Default branch
 The default branch for this repo has changed to `main`. 
+=======
+## Default branch
+The default branch for this repo has changed to `main`. 
+>>>>>>> 74d2ad78f94df850e2838591f8794501904eb493
 If you have cloned the previous default branch, please update your local repo to use the `main` branch. 
